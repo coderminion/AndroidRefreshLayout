@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidRefreshLayout</string>
+
+    <string name="contentnotfound">Page Not Found</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="badrequest">Bad Request</string>
+    <string name="serverexception">Server Error!</string>
+    <string name="connectionerror">Connection Error</string>
+    <string name="internet_problem">Internet Connection Problem. You do not have an active internet connection.</string>
+    <string name="timeout">Timeout Error. Please retry.</string>
+</resources>
